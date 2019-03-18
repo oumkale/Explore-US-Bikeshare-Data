@@ -1,0 +1,501 @@
+,Start Time,End Time,Trip Duration,Start Station,End Station,User Type,Gender,Birth Year
+5688089,11-06-2017 14:55,11-06-2017 15:08,795,Suffolk St & Stanton St,W Broadway & Spring St,Subscriber,Male,1998
+4096714,11-05-2017 15:30,11-05-2017 15:41,692,Lexington Ave & E 63 St,1 Ave & E 78 St,Subscriber,Male,1981
+2173887,29-03-2017 13:26,29-03-2017 13:48,1325,1 Pl & Clinton St,Henry St & Degraw St,Subscriber,Male,1987
+3945638,08-05-2017 19:47,08-05-2017 19:59,703,Barrow St & Hudson St,W 20 St & 8 Ave,Subscriber,Female,1986
+6208972,21-06-2017 07:49,21-06-2017 07:54,329,1 Ave & E 44 St,E 53 St & 3 Ave,Subscriber,Male,1992
+1285652,22-02-2017 18:55,22-02-2017 19:12,998,State St & Smith St,Bond St & Fulton St,Subscriber,Male,1986
+1675753,06-03-2017 16:22,06-03-2017 16:30,478,Front St & Gold St,Lafayette Ave & Fort Greene Pl,Subscriber,Male,1982
+1692245,07-03-2017 07:42,07-03-2017 08:49,4038,E 89 St & York Ave,Broadway & Battery Pl,Subscriber,Male,1984
+2271331,02-04-2017 08:02,02-04-2017 09:28,5132,Central Park S & 6 Ave,Central Park S & 6 Ave,Customer,,
+1558339,01-03-2017 23:01,01-03-2017 23:06,309,E 3 St & 1 Ave,E 25 St & 2 Ave,Subscriber,Male,1992
+2287178,02-04-2017 14:37,02-04-2017 14:56,1131,Bank St & Washington St,Little West St & 1 Pl,Customer,,
+2744874,13-04-2017 13:40,13-04-2017 13:45,319,Front St & Maiden Ln,Liberty St & Broadway,Subscriber,Male,1955
+3398180,27-04-2017 23:27,28-04-2017 00:05,2301,E 10 St & 5 Ave,Columbus Ave & W 72 St,Subscriber,Male,1971
+991609,13-02-2017 15:40,13-02-2017 16:00,1172,1 Ave & E 68 St,E 47 St & Park Ave,Subscriber,Male,1993
+1512596,28-02-2017 19:26,28-02-2017 19:35,518,N 11 St & Wythe Ave,Bushwick Ave & Powers St,Subscriber,Male,1983
+187466,11-01-2017 11:30,11-01-2017 11:35,285,E 17 St & Broadway,W 17 St & 8 Ave,Subscriber,Male,1972
+2195658,29-03-2017 20:19,29-03-2017 20:24,263,State St & Smith St,Johnson St & Gold St,Subscriber,Male,1982
+6388534,23-06-2017 21:21,23-06-2017 21:30,525,E 2 St & Avenue C,E 11 St & 2 Ave,Subscriber,Female,1997
+4733837,24-05-2017 08:53,24-05-2017 09:04,658,Central Park West & W 76 St,E 72 St & York Ave,Subscriber,Male,1979
+5857,01-01-2017 13:32,01-01-2017 13:49,1038,W 22 St & 8 Ave,W 45 St & 6 Ave,Customer,,
+1132766,18-02-2017 13:29,18-02-2017 13:30,82,E 71 St & 1 Ave,1 Ave & E 68 St,Subscriber,Male,1983
+3358474,27-04-2017 09:44,27-04-2017 09:48,204,University Pl & E 14 St,Washington Pl & Broadway,Subscriber,Male,1988
+1778858,09-03-2017 11:15,09-03-2017 11:29,803,E 25 St & 2 Ave,Suffolk St & Stanton St,Subscriber,Female,1978
+2497952,08-04-2017 13:39,08-04-2017 14:04,1476,Dean St & Hoyt St,Plaza St West & Flatbush Ave,Customer,,
+2905932,16-04-2017 17:36,16-04-2017 18:02,1605,Allen St & Stanton St,Mott St & Prince St,Subscriber,Male,1983
+3123311,21-04-2017 09:41,21-04-2017 09:48,441,Lexington Ave & E 63 St,1 Ave & E 68 St,Subscriber,Female,1965
+2959550,17-04-2017 18:27,17-04-2017 18:56,1750,NYCBS Depot - SSP,Columbia St & Degraw St,Subscriber,Male,1975
+2067887,25-03-2017 12:02,25-03-2017 12:08,393,W 26 St & 8 Ave,W 38 St & 8 Ave,Subscriber,Female,1960
+3518426,29-04-2017 23:58,30-04-2017 00:02,215,Great Jones St,Mott St & Prince St,Subscriber,Male,1986
+5383277,06-06-2017 11:23,06-06-2017 11:26,205,W 43 St & 10 Ave,9 Ave & W 45 St,Subscriber,Male,1951
+3146215,21-04-2017 18:09,21-04-2017 18:14,294,Grand St & Elizabeth St,Grand St & Greene St,Subscriber,Female,1995
+2018488,23-03-2017 18:35,23-03-2017 18:50,920,W 20 St & 11 Ave,St Marks Pl & 2 Ave,Subscriber,Male,1951
+3676202,02-05-2017 21:43,02-05-2017 22:29,2746,Old Fulton St,Broadway & E 14 St,Customer,,
+1389460,25-02-2017 10:58,25-02-2017 11:03,298,Allen St & Hester St,Rivington St & Chrystie St,Subscriber,Male,1986
+6321417,22-06-2017 18:52,22-06-2017 19:15,1388,E 55 St & 3 Ave,Milton St & Franklin St,Subscriber,Male,1988
+936709,08-02-2017 12:06,08-02-2017 12:08,111,8 Ave & W 52 St,W 54 St & 9 Ave,Subscriber,Male,1975
+1975396,22-03-2017 08:56,22-03-2017 09:07,630,Broadway & W 29 St,E 17 St & Broadway,Customer,,
+642530,28-01-2017 16:32,28-01-2017 16:53,1284,Cathedral Pkwy & Broadway,Central Park S & 6 Ave,Subscriber,Male,1974
+5630375,10-06-2017 14:03,10-06-2017 14:05,76,Bayard St & Baxter St,Bayard St & Baxter St,Customer,,
+5481113,08-06-2017 07:25,08-06-2017 07:31,328,Driggs Ave & N Henry St,N 8 St & Driggs Ave,Subscriber,Female,1986
+3873453,07-05-2017 10:50,07-05-2017 10:56,382,Perry St & Bleecker St,8 Ave & W 31 St,Subscriber,Male,1993
+2567503,10-04-2017 07:32,10-04-2017 07:41,526,Broadway & E 22 St,Pershing Square South,Subscriber,Male,1974
+6432811,24-06-2017 19:13,24-06-2017 19:18,308,Carmine St & 6 Ave,W 13 St & 7 Ave,Subscriber,Male,1987
+1909858,20-03-2017 09:08,20-03-2017 09:13,314,Fulton St & Clermont Ave,Hanson Pl & Ashland Pl,Subscriber,Male,1968
+4989575,30-05-2017 10:12,30-05-2017 10:26,854,W 26 St & 8 Ave,Greenwich St & W Houston St,Subscriber,Male,1985
+4485367,19-05-2017 08:51,19-05-2017 08:58,433,Broadway & W 56 St,E 47 St & Park Ave,Subscriber,Male,1979
+6686290,28-06-2017 20:29,28-06-2017 20:40,603,8 Ave & W 16 St,W 38 St & 8 Ave,Subscriber,Male,1987
+6398149,24-06-2017 11:07,24-06-2017 11:13,351,University Pl & E 14 St,W 13 St & Hudson St,Subscriber,Male,1976
+2964832,17-04-2017 19:27,17-04-2017 19:41,816,W 84 St & Columbus Ave,W 104 St & Amsterdam Ave,Subscriber,Female,1990
+5334757,05-06-2017 12:23,05-06-2017 12:29,368,E 53 St & Madison Ave,E 58 St & 1 Ave,Subscriber,Male,1990
+574675,26-01-2017 12:40,26-01-2017 13:06,1574,W 43 St & 6 Ave,Carmine St & 6 Ave,Subscriber,Male,1954
+5981682,16-06-2017 13:15,16-06-2017 13:20,324,Broadway & W 36 St,E 41 St & Madison Ave,Subscriber,Male,1992
+2897347,16-04-2017 15:23,16-04-2017 15:44,1233,Cleveland Pl & Spring St,S 5 Pl & S 4 St,Customer,,
+3582305,01-05-2017 13:31,01-05-2017 13:46,881,E 45 St & 3 Ave,W 34 St & 11 Ave,Subscriber,Male,1972
+1507415,28-02-2017 18:03,28-02-2017 18:10,418,Columbus Ave & W 103 St,W 106 St & Central Park West,Subscriber,Male,1990
+5448406,07-06-2017 16:35,07-06-2017 16:58,1356,E 39 St & 3 Ave,Central Park North & Adam Clayton Powell Blvd,Subscriber,Male,1968
+4580791,20-05-2017 21:12,20-05-2017 21:27,852,Vesey Pl & River Terrace,Mercer St & Spring St,Subscriber,Male,1994
+5515649,08-06-2017 17:07,08-06-2017 17:21,862,E 39 St & 2 Ave,E 20 St & FDR Drive,Subscriber,Female,1974
+4885759,27-05-2017 16:41,27-05-2017 16:58,1027,Washington St & Gansevoort St,West St & Chambers St,Customer,Male,1994
+4025507,10-05-2017 10:20,10-05-2017 10:53,2005,E 85 St & 3 Ave,Spruce St & Nassau St,Subscriber,Male,1973
+3847598,06-05-2017 15:58,06-05-2017 16:31,1997,Front St & Maiden Ln,Old Fulton St,Customer,,
+4586817,21-05-2017 08:24,21-05-2017 08:36,723,Avenue D & E 12 St,E 15 St & 3 Ave,Subscriber,Male,1981
+3303809,25-04-2017 15:02,25-04-2017 15:18,966,Greenwich St & W Houston St,9 Ave & W 28 St,Subscriber,Female,1980
+6722387,29-06-2017 14:29,29-06-2017 15:01,1927,W 78 St & Broadway,W 63 St & Broadway,Subscriber,Female,1971
+4731489,24-05-2017 08:32,24-05-2017 09:07,2101,Central Park S & 6 Ave,Central Park S & 6 Ave,Subscriber,Male,1966
+6018157,17-06-2017 08:06,17-06-2017 08:35,1727,Pier 40 - Hudson River Park,Pier 40 - Hudson River Park,Customer,,
+4079228,11-05-2017 09:03,11-05-2017 09:08,338,W 84 St & Broadway,Columbus Ave & W 72 St,Subscriber,Female,1992
+87348,05-01-2017 14:30,05-01-2017 14:42,700,E 17 St & Broadway,Avenue D & E 3 St,Subscriber,Male,1986
+2184051,29-03-2017 17:23,29-03-2017 17:40,997,Central Park S & 6 Ave,E 88 St & 1 Ave,Subscriber,Male,1988
+2855148,15-04-2017 16:12,15-04-2017 16:14,103,Allen St & Rivington St,Stanton St & Chrystie St,Subscriber,Female,1956
+1675078,06-03-2017 16:02,06-03-2017 16:24,1339,E 59 St & Madison Ave,W 14 St & The High Line,Subscriber,Male,1963
+338034,17-01-2017 06:43,17-01-2017 06:51,519,Pershing Square South,E 25 St & 2 Ave,Subscriber,Female,1990
+445709,20-01-2017 19:01,20-01-2017 19:06,330,Stanton St & Chrystie St,MacDougal St & Prince St,Subscriber,Male,1983
+3828509,06-05-2017 11:17,06-05-2017 11:23,360,E 15 St & 3 Ave,E 14 St & Avenue B,Subscriber,Male,1989
+5931878,15-06-2017 16:52,15-06-2017 16:58,394,Front St & Washington St,Clark St & Henry St,Subscriber,Male,1980
+3252725,24-04-2017 09:49,24-04-2017 09:57,436,Broadway & W 51 St,Pershing Square South,Subscriber,Male,1993
+4263930,15-05-2017 18:09,15-05-2017 18:28,1165,Duane St & Greenwich St,W 16 St & The High Line,Subscriber,Female,1977
+4327895,16-05-2017 18:22,16-05-2017 18:30,494,Leonard St & Maujer St,Myrtle Ave & Lewis Ave,Subscriber,Male,1973
+4500991,19-05-2017 13:50,19-05-2017 14:02,692,Centre St & Chambers St,Centre St & Chambers St,Customer,,
+2004051,23-03-2017 10:19,23-03-2017 10:28,524,1 Ave & E 16 St,E 16 St & 5 Ave,Subscriber,Male,1984
+1377740,24-02-2017 19:50,24-02-2017 20:16,1551,Reade St & Broadway,E 10 St & Avenue A,Subscriber,Male,1991
+6738778,29-06-2017 18:06,29-06-2017 18:10,263,E 16 St & 5 Ave,Greenwich Ave & 8 Ave,Subscriber,Male,1984
+3479649,29-04-2017 13:01,29-04-2017 13:06,292,Barclay St & Church St,South End Ave & Liberty St,Subscriber,Male,1980
+6067227,18-06-2017 13:36,18-06-2017 14:10,2048,E 33 St & 2 Ave,Cherry St,Subscriber,Male,1942
+5888144,14-06-2017 20:52,14-06-2017 21:08,930,Broadway & Roebling St,Milton St & Franklin St,Subscriber,Female,1989
+2491986,08-04-2017 11:42,08-04-2017 11:45,202,Adelphi St & Myrtle Ave,DeKalb Ave & S Portland Ave,Subscriber,Male,1990
+6407126,24-06-2017 13:21,24-06-2017 13:58,2232,Bergen St & Smith St,Bedford Ave & Nassau Ave,Subscriber,Male,1977
+6392474,24-06-2017 02:40,24-06-2017 02:46,379,11 Ave & W 41 St,8 Ave & W 33 St,Subscriber,Male,1974
+4276054,15-05-2017 20:50,15-05-2017 20:56,413,University Pl & E 8 St,E 11 St & 2 Ave,Subscriber,Female,1965
+2759514,13-04-2017 17:42,13-04-2017 17:45,205,Broadway & W 58 St,8 Ave & W 52 St,Subscriber,Male,1981
+2401586,05-04-2017 12:49,05-04-2017 12:51,137,Broadway & W 58 St,Broadway & W 53 St,Subscriber,Female,1996
+5820513,13-06-2017 19:00,13-06-2017 19:02,153,Barrow St & Hudson St,Greenwich St & W Houston St,Subscriber,Female,1999
+5480048,08-06-2017 07:03,08-06-2017 07:12,560,Forsyth St & Broome St,Carmine St & 6 Ave,Subscriber,Female,1961
+1951218,21-03-2017 16:15,21-03-2017 16:23,472,Lafayette St & E 8 St,E 2 St & Avenue C,Subscriber,Female,1996
+3005402,18-04-2017 16:49,18-04-2017 16:54,334,W 45 St & 8 Ave,W 44 St & 5 Ave,Subscriber,Male,1984
+4212374,14-05-2017 16:38,14-05-2017 16:43,245,Bond St & Bergen St,Dean St & 4 Ave,Subscriber,Male,1984
+2697880,12-04-2017 16:07,12-04-2017 16:33,1573,Mott St & Prince St,E 51 St & 1 Ave,Subscriber,Female,1974
+4393538,17-05-2017 18:26,17-05-2017 18:35,525,W 92 St & Broadway,W 76 St & Columbus Ave,Subscriber,Male,1948
+3893488,07-05-2017 18:20,07-05-2017 18:42,1349,8 Ave & W 52 St,5 Ave & E 88 St,Subscriber,Male,1990
+1811390,10-03-2017 08:27,10-03-2017 08:32,253,E 24 St & Park Ave S,Broadway & E 14 St,Subscriber,Male,1973
+389272,19-01-2017 07:34,19-01-2017 07:42,444,Broadway & W 36 St,W 52 St & 6 Ave,Subscriber,Male,1979
+4666273,23-05-2017 06:59,23-05-2017 07:22,1416,Central Park West & W 102 St,E 48 St & 5 Ave,Subscriber,Female,1957
+3241064,24-04-2017 06:31,24-04-2017 06:56,1488,W 42 St & Dyer Ave,Liberty St & Broadway,Subscriber,Male,1962
+4287006,16-05-2017 08:03,16-05-2017 08:37,2048,Clinton St & Joralemon St,E 47 St & 2 Ave,Subscriber,Male,1971
+2971954,17-04-2017 23:11,17-04-2017 23:16,272,University Pl & E 8 St,E 15 St & 3 Ave,Subscriber,Male,1992
+5902394,15-06-2017 08:17,15-06-2017 08:26,593,Cooper Square & E 7 St,8 Ave & W 16 St,Subscriber,Male,1990
+3079483,20-04-2017 10:00,20-04-2017 10:21,1203,Broadway & W 24 St,W 52 St & 5 Ave,Subscriber,Male,1960
+6356851,23-06-2017 12:01,23-06-2017 12:40,2341,Central Park S & 6 Ave,9 Ave & W 22 St,Customer,,
+6437349,24-06-2017 20:40,24-06-2017 21:05,1484,Clinton St & Grand St,Forsyth St & Broome St,Subscriber,Male,1979
+4015168,10-05-2017 08:08,10-05-2017 08:24,956,W 13 St & Hudson St,Vesey Pl & River Terrace,Subscriber,Male,1959
+6417471,24-06-2017 15:38,24-06-2017 15:44,362,Cherry St,Allen St & Hester St,Subscriber,Female,1966
+6158567,20-06-2017 12:06,20-06-2017 12:17,635,E 31 St & 3 Ave,W 38 St & 8 Ave,Subscriber,Male,1991
+4742346,24-05-2017 11:32,24-05-2017 11:42,607,1 Ave & E 68 St,2 Ave & E 96 St,Subscriber,Male,1967
+1214745,20-02-2017 17:42,20-02-2017 18:13,1852,Bus Slip & State St,Bus Slip & State St,Customer,,
+3071010,19-04-2017 22:35,19-04-2017 22:56,1242,E 6 St & Avenue B,8 Ave & W 31 St,Customer,Male,1996
+2767253,13-04-2017 19:04,13-04-2017 19:21,997,Duane St & Greenwich St,W 22 St & 10 Ave,Subscriber,Male,1979
+1873353,13-03-2017 17:35,13-03-2017 17:56,1278,W Broadway & Spring St,11 Ave & W 27 St,Subscriber,Male,1977
+6335267,22-06-2017 23:18,22-06-2017 23:42,1443,Greenwich Ave & 8 Ave,E 23 St & 1 Ave,Subscriber,Female,1996
+4824502,26-05-2017 14:03,26-05-2017 14:24,1276,Kent Ave & N 7 St,N 6 St & Bedford Ave,Customer,,
+5213563,02-06-2017 20:34,02-06-2017 20:39,273,University Pl & E 8 St,W 4 St & 7 Ave S,Subscriber,Male,1985
+1578361,02-03-2017 15:21,02-03-2017 15:25,209,Sands St & Navy St,York St & Jay St,Subscriber,Male,1983
+378557,18-01-2017 18:24,18-01-2017 18:46,1325,Rivington St & Ridge St,Montrose Ave & Bushwick Ave,Subscriber,Female,1986
+1759669,08-03-2017 20:42,08-03-2017 20:44,156,E 91 St & Park Ave,E 88 St & Park Ave,Subscriber,Male,1987
+2792598,14-04-2017 12:17,14-04-2017 12:37,1232,6 Ave & Canal St,Little West St & 1 Pl,Customer,,
+3006257,18-04-2017 17:01,18-04-2017 17:17,912,Reade St & Broadway,South End Ave & Liberty St,Customer,,
+2561325,09-04-2017 20:20,09-04-2017 20:30,588,2 Ave & E 31 St,E 17 St & Broadway,Subscriber,Male,1993
+842093,04-02-2017 18:43,04-02-2017 18:50,455,W 56 St & 10 Ave,Broadway & W 49 St,Subscriber,Male,1974
+5664204,11-06-2017 01:11,11-06-2017 01:42,1913,Henry St & Grand St,Broadway & W 24 St,Subscriber,Male,1981
+3789757,04-05-2017 20:01,04-05-2017 20:36,2101,E 51 St & 1 Ave,Maiden Ln & Pearl St,Subscriber,Male,1990
+5351922,05-06-2017 17:36,05-06-2017 18:06,1754,South St & Gouverneur Ln,Richards St & Delavan St,Subscriber,Male,1987
+4776884,24-05-2017 19:56,24-05-2017 20:26,1792,Christopher St & Greenwich St,Amsterdam Ave & W 79 St,Subscriber,Male,1963
+6224775,21-06-2017 11:46,21-06-2017 12:00,859,W 43 St & 6 Ave,W 53 St & 10 Ave,Subscriber,Female,1960
+6413999,24-06-2017 14:52,24-06-2017 14:58,325,E 32 St & Park Ave,E 17 St & Broadway,Subscriber,Male,1989
+3028133,19-04-2017 06:49,19-04-2017 06:53,198,West St & Chambers St,Centre St & Chambers St,Subscriber,Male,1980
+3229794,23-04-2017 18:02,23-04-2017 18:16,835,Central Park West & W 102 St,Central Park West & W 72 St,Subscriber,Male,1964
+1297870,23-02-2017 08:07,23-02-2017 08:16,511,W 49 St & 8 Ave,E 59 St & Madison Ave,Subscriber,Male,1981
+1779232,09-03-2017 11:29,09-03-2017 11:38,569,Columbia St & Rivington St,Division St & Bowery,Subscriber,Male,1993
+1669014,06-03-2017 11:57,06-03-2017 12:25,1686,Centre St & Worth St,Clinton St & Tillary St,Customer,,
+6170127,20-06-2017 16:05,20-06-2017 16:30,1464,Carroll St & Smith St,Centre St & Chambers St,Subscriber,Male,1968
+3712090,03-05-2017 16:20,03-05-2017 17:35,4552,W 34 St & 11 Ave,Fulton St & Broadway,Customer,,
+5529352,08-06-2017 19:14,08-06-2017 19:46,1909,Washington St & Gansevoort St,W 46 St & 11 Ave,Customer,,
+6467971,25-06-2017 14:33,25-06-2017 14:58,1479,E 66 St & Madison Ave,5 Ave & E 103 St,Customer,,
+6353718,23-06-2017 10:39,23-06-2017 10:45,335,Clinton St & Joralemon St,Cadman Plaza E & Red Cross Pl,Subscriber,Female,1968
+775802,02-02-2017 12:18,02-02-2017 12:22,239,W 13 St & 5 Ave,Sullivan St & Washington Sq,Subscriber,Male,1997
+836946,04-02-2017 15:08,04-02-2017 15:16,449,Berkeley Pl & 7 Ave,Bergen St & Smith St,Subscriber,Male,1978
+2432181,06-04-2017 07:20,06-04-2017 07:22,81,MacDougal St & Washington Sq,Sullivan St & Washington Sq,Subscriber,Male,1992
+6647928,28-06-2017 11:47,28-06-2017 11:57,619,Broadway & W 29 St,Sullivan St & Washington Sq,Subscriber,Male,1986
+6171939,20-06-2017 16:34,20-06-2017 17:10,2132,FDR Drive & E 35 St,31 St & Thomson Ave,Subscriber,Female,1977
+4837234,26-05-2017 16:54,26-05-2017 17:15,1278,Washington St & Gansevoort St,Little West St & 1 Pl,Subscriber,Male,1967
+5478620,08-06-2017 06:20,08-06-2017 06:22,116,E 31 St & 3 Ave,E 33 St & 2 Ave,Subscriber,Male,1990
+72902,04-01-2017 23:02,04-01-2017 23:05,135,2 Ave & E 31 St,E 25 St & 2 Ave,Subscriber,Male,1991
+2142023,28-03-2017 09:02,28-03-2017 09:07,292,11 Ave & W 41 St,W 42 St & 8 Ave,Subscriber,Male,1986
+5644756,10-06-2017 17:11,10-06-2017 17:33,1288,Broadway & W 24 St,Canal St & Rutgers St,Subscriber,Male,1976
+6672567,28-06-2017 18:04,28-06-2017 18:09,317,W Broadway & Spring St,Howard St & Centre St,Subscriber,Male,1964
+233335,12-01-2017 17:18,12-01-2017 17:39,1255,W 42 St & 8 Ave,Central Park West & W 102 St,Subscriber,Male,1981
+1884535,17-03-2017 11:00,17-03-2017 11:09,503,E 65 St & 2 Ave,E 85 St & 3 Ave,Subscriber,Male,1987
+5321258,05-06-2017 08:08,05-06-2017 08:39,1812,Murray St & West St,W 42 St & 8 Ave,Subscriber,Male,1969
+3744138,04-05-2017 07:58,04-05-2017 08:09,651,President St & Henry St,Schermerhorn St & Court St,Subscriber,Male,1973
+3018843,18-04-2017 19:15,18-04-2017 19:42,1619,8 Ave & W 52 St,6 Ave & Canal St,Subscriber,Female,1980
+2316085,03-04-2017 08:26,03-04-2017 08:37,670,W 38 St & 8 Ave,E 23 St & 1 Ave,Subscriber,Male,1979
+5887645,14-06-2017 20:42,14-06-2017 21:07,1462,Maiden Ln & Pearl St,E 23 St & 1 Ave,Subscriber,Female,1983
+3013856,18-04-2017 18:17,18-04-2017 18:29,690,Norfolk St & Broome St,S 5 Pl & S 4 St,Subscriber,Male,1960
+6351515,23-06-2017 09:50,23-06-2017 10:03,829,N 6 St & Bedford Ave,Clinton Ave & Flushing Ave,Subscriber,Male,1980
+5825054,13-06-2017 19:58,13-06-2017 20:08,585,Forsyth St & Broome St,E 17 St & Broadway,Subscriber,Male,1963
+6730027,29-06-2017 16:43,29-06-2017 16:47,249,Grand Army Plaza & Central Park S,E 48 St & 5 Ave,Subscriber,Male,1977
+1826417,10-03-2017 23:15,10-03-2017 23:29,844,Central Park S & 6 Ave,Columbus Ave & W 95 St,Subscriber,,1977
+968783,11-02-2017 15:36,11-02-2017 15:51,883,Washington Pl & 6 Ave,Rivington St & Chrystie St,Subscriber,Male,1973
+5298343,04-06-2017 14:41,04-06-2017 14:49,509,E 89 St & York Ave,E 102 St & 1 Ave,Subscriber,Female,1967
+13703,01-01-2017 19:12,01-01-2017 19:31,1127,W 20 St & 11 Ave,Murray St & West St,Customer,,
+3134620,21-04-2017 15:02,21-04-2017 15:08,342,Lafayette St & E 8 St,E 7 St & Avenue A,Subscriber,Male,1971
+6225518,21-06-2017 12:02,21-06-2017 12:08,386,E 4 St & 2 Ave,E 10 St & Avenue A,Subscriber,Female,1978
+6041709,17-06-2017 18:46,17-06-2017 18:54,476,Lexington Ave & E 63 St,W 55 St & 6 Ave,Subscriber,Female,1979
+3288188,24-04-2017 23:33,24-04-2017 23:46,744,N 6 St & Bedford Ave,Franklin St & Dupont St,Subscriber,Male,1986
+699264,30-01-2017 20:29,30-01-2017 20:43,817,West St & Chambers St,E 4 St & 2 Ave,Subscriber,Male,1986
+5560849,09-06-2017 11:44,09-06-2017 12:10,1591,Lafayette St & E 8 St,12 Ave & W 40 St,Customer,Male,1985
+5514258,08-06-2017 16:51,08-06-2017 17:05,881,Greenwich St & W Houston St,11 Ave & W 27 St,Subscriber,Male,1971
+2296986,02-04-2017 17:00,02-04-2017 17:01,75,9 Ave & W 22 St,W 22 St & 8 Ave,Subscriber,Male,1990
+6398130,24-06-2017 11:06,24-06-2017 11:09,187,Barclay St & Church St,Fulton St & Broadway,Subscriber,Male,1973
+2548859,09-04-2017 16:25,09-04-2017 16:45,1177,W 24 St & 7 Ave,West St & Chambers St,Subscriber,Male,1992
+2481285,07-04-2017 19:48,07-04-2017 19:53,304,W 26 St & 8 Ave,W 38 St & 8 Ave,Subscriber,Male,1985
+3777400,04-05-2017 17:31,04-05-2017 17:35,215,Kent Ave & N 7 St,Metropolitan Ave & Bedford Ave,Subscriber,Male,1953
+2160966,29-03-2017 07:59,29-03-2017 08:08,531,Central Park West & W 85 St,Central Park S & 6 Ave,Subscriber,Male,1971
+5897459,15-06-2017 07:05,15-06-2017 07:17,714,West Thames St,Centre St & Worth St,Subscriber,Male,1954
+6441021,24-06-2017 22:21,24-06-2017 22:41,1171,6 Ave & Canal St,Carmine St & 6 Ave,Customer,,
+6637712,28-06-2017 08:49,28-06-2017 09:14,1505,Cathedral Pkwy & Broadway,W 52 St & 6 Ave,Subscriber,Male,1958
+656884,29-01-2017 12:55,29-01-2017 12:59,264,W 41 St & 8 Ave,6 Ave & W 33 St,Subscriber,Female,1993
+4193308,14-05-2017 11:06,14-05-2017 11:14,449,1 Ave & E 62 St,E 47 St & 1 Ave,Subscriber,Male,1974
+2765315,13-04-2017 18:40,13-04-2017 19:15,2077,Duane St & Greenwich St,Cathedral Pkwy & Broadway,Subscriber,Male,1967
+2508580,08-04-2017 16:51,08-04-2017 17:21,1813,W 14 St & The High Line,W 88 St & West End Ave,Subscriber,Male,1955
+1371351,24-02-2017 17:59,24-02-2017 18:03,210,Barrow St & Hudson St,Bank St & Hudson St,Subscriber,Male,1960
+3800736,05-05-2017 09:03,05-05-2017 09:10,463,Pershing Square North,W 31 St & 7 Ave,Subscriber,Male,1987
+2486890,08-04-2017 09:02,08-04-2017 09:21,1141,E 60 St & York Ave,W 63 St & Broadway,Customer,,
+1959438,21-03-2017 18:27,21-03-2017 18:46,1191,Cliff St & Fulton St,E 23 St & 1 Ave,Subscriber,Male,1990
+5878947,14-06-2017 18:45,14-06-2017 19:22,2226,3 Ave & E 62 St,E 20 St & 2 Ave,Subscriber,Male,1986
+6164224,20-06-2017 14:10,20-06-2017 14:20,576,E 30 St & Park Ave S,E 23 St & 1 Ave,Subscriber,Female,1976
+4507646,19-05-2017 15:50,19-05-2017 16:07,1013,Grand Army Plaza & Central Park S,W 70 St & Amsterdam Ave,Subscriber,Female,1987
+3036026,19-04-2017 08:49,19-04-2017 08:56,433,1 Ave & E 94 St,Madison Ave & E 99 St,Subscriber,Female,1985
+2320738,03-04-2017 09:33,03-04-2017 09:55,1306,Berkeley Pl & 6 Ave,Berkeley Pl & 6 Ave,Subscriber,,
+84306,05-01-2017 11:56,05-01-2017 12:01,286,E 32 St & Park Ave,E 45 St & 3 Ave,Subscriber,Male,1977
+228565,12-01-2017 15:34,12-01-2017 15:38,200,W 52 St & 9 Ave,Broadway & W 55 St,Subscriber,Male,1974
+1386254,25-02-2017 09:29,25-02-2017 09:34,303,W 37 St & 10 Ave,W 41 St & 8 Ave,Subscriber,Male,1988
+6269681,21-06-2017 23:59,22-06-2017 00:19,1254,Carmine St & 6 Ave,Front St & Maiden Ln,Subscriber,Male,1960
+6173619,20-06-2017 16:58,20-06-2017 17:01,206,Driggs Ave & Lorimer St,N 8 St & Driggs Ave,Subscriber,Female,1986
+4218781,14-05-2017 19:03,14-05-2017 19:21,1085,E 55 St & 2 Ave,E 15 St & 3 Ave,Customer,,
+6335379,22-06-2017 23:23,22-06-2017 23:31,514,E 7 St & Avenue A,Clinton St & Grand St,Subscriber,Male,1988
+2485026,08-04-2017 02:08,08-04-2017 02:20,752,Centre St & Chambers St,E 7 St & Avenue A,Subscriber,Male,1983
+1650900,05-03-2017 16:01,05-03-2017 16:12,668,11 Ave & W 41 St,Broadway & W 49 St,Subscriber,Male,1971
+2744300,13-04-2017 13:27,13-04-2017 13:52,1509,5 Ave & E 93 St,12 Ave & W 40 St,Customer,,
+3308681,25-04-2017 23:59,26-04-2017 00:03,254,Washington Pl & Broadway,E 4 St & 2 Ave,Subscriber,Female,1996
+2125872,27-03-2017 18:12,27-03-2017 18:30,1098,Fulton St & Broadway,Allen St & Stanton St,Subscriber,Male,1988
+5116172,01-06-2017 14:49,01-06-2017 15:18,1719,Centre St & Chambers St,Spruce St & Nassau St,Customer,,
+4108411,11-05-2017 18:04,11-05-2017 18:33,1781,E 58 St & Madison Ave,Pershing Square North,Subscriber,Male,1980
+279381,13-01-2017 20:19,13-01-2017 20:28,551,W 87 St  & Amsterdam Ave,11 Ave & W 59 St,Subscriber,Male,1994
+2072415,25-03-2017 13:35,25-03-2017 13:41,402,W 20 St & 11 Ave,W 18 St & 6 Ave,Subscriber,Male,1991
+432007,20-01-2017 09:20,20-01-2017 09:27,441,W 39 St & 9 Ave,Pershing Square South,Subscriber,Male,1980
+3284666,24-04-2017 20:33,24-04-2017 20:39,379,6 Ave & W 33 St,E 16 St & 5 Ave,Subscriber,Male,1978
+1157420,19-02-2017 10:33,19-02-2017 11:03,1821,Central Park S & 6 Ave,5 Ave & E 88 St,Customer,,
+2710778,12-04-2017 18:38,12-04-2017 18:42,273,Clinton St & Joralemon St,Kane St & Clinton St,Subscriber,Male,1972
+2418389,05-04-2017 18:06,05-04-2017 18:17,630,6 Ave & Canal St,W 15 St & 7 Ave,Subscriber,Male,1985
+5309535,04-06-2017 19:22,04-06-2017 19:28,347,W 56 St & 10 Ave,Broadway & W 56 St,Subscriber,Male,1955
+6209483,21-06-2017 07:55,21-06-2017 07:57,98,South End Ave & Liberty St,South End Ave & Liberty St,Subscriber,Female,1960
+6199671,20-06-2017 22:02,20-06-2017 22:07,305,Fulton St & Rockwell Pl,Clermont Ave & Lafayette Ave,Subscriber,Male,1985
+3273104,24-04-2017 17:46,24-04-2017 17:51,317,E 47 St & Park Ave,E 39 St & 2 Ave,Subscriber,Male,1972
+6047053,17-06-2017 21:23,17-06-2017 21:32,495,E 12 St & 3 Ave,Allen St & Rivington St,Subscriber,Male,1983
+6451583,25-06-2017 10:17,25-06-2017 10:40,1388,S 4 St & Rodney St,Clinton St & Grand St,Customer,,
+4519233,19-05-2017 17:58,19-05-2017 18:15,1032,Central Park S & 6 Ave,W 67 St & Broadway,Customer,,
+6723534,29-06-2017 14:52,29-06-2017 16:55,7386,Old Fulton St,Old Fulton St,Customer,,
+650105,29-01-2017 03:06,29-01-2017 03:10,268,Allen St & Stanton St,Pike St & E Broadway,Subscriber,Female,1979
+4289817,16-05-2017 08:30,16-05-2017 08:35,295,8 Ave & W 33 St,Broadway & W 49 St,Subscriber,Male,1987
+1677874,06-03-2017 17:13,06-03-2017 17:18,265,Greenwich St & Hubert St,Reade St & Broadway,Subscriber,Male,1983
+3122170,21-04-2017 09:18,21-04-2017 09:23,308,Union Ave & Wallabout St,Division Ave & Hooper St,Subscriber,Female,1992
+6158510,20-06-2017 12:05,20-06-2017 12:15,592,Lafayette St & E 8 St,Division St & Bowery,Subscriber,Male,1973
+6054143,18-06-2017 09:10,18-06-2017 09:12,152,Henry St & Grand St,Clinton St & Grand St,Subscriber,Male,1946
+3228015,23-04-2017 17:35,23-04-2017 17:53,1056,Broadway & W 60 St,Grand Army Plaza & Central Park S,Customer,,
+4106970,11-05-2017 17:50,11-05-2017 18:08,1068,W 31 St & 7 Ave,E 11 St & 2 Ave,Subscriber,Female,1968
+1703383,07-03-2017 15:59,07-03-2017 16:06,434,Pershing Square North,W 33 St & 7 Ave,Subscriber,Male,1970
+5636715,10-06-2017 15:25,10-06-2017 15:41,928,FDR Drive & E 35 St,Broadway & W 56 St,Customer,,
+1793345,09-03-2017 17:17,09-03-2017 17:24,415,Pershing Square North,W 33 St & 7 Ave,Subscriber,Male,1969
+1393089,25-02-2017 12:08,25-02-2017 12:30,1311,5 Ave & E 88 St,W 92 St & Broadway,Customer,,
+1414549,25-02-2017 21:32,25-02-2017 21:54,1316,Broadway & Roebling St,1 Ave & E 18 St,Subscriber,Female,1975
+4831904,26-05-2017 15:45,26-05-2017 16:12,1594,Washington St & Gansevoort St,Clinton St & Grand St,Subscriber,Male,1982
+4647018,22-05-2017 08:57,22-05-2017 09:03,355,Hudson St & Reade St,Cleveland Pl & Spring St,Subscriber,Male,1977
+4194394,14-05-2017 11:27,14-05-2017 11:38,615,Broadway & W 36 St,Broadway & E 22 St,Customer,,
+4376357,17-05-2017 15:11,17-05-2017 15:32,1202,2 Ave & E 99 St,5 Ave & E 63 St,Subscriber,Male,1992
+4736921,24-05-2017 09:29,24-05-2017 09:37,487,MacDougal St & Prince St,8 Ave & W 16 St,Subscriber,,
+4306194,16-05-2017 13:35,16-05-2017 13:43,445,E 23 St & 1 Ave,Cooper Square & E 7 St,Subscriber,Male,1965
+2444049,06-04-2017 19:26,06-04-2017 19:35,500,E 15 St & 3 Ave,E 25 St & 2 Ave,Subscriber,Female,1973
+5768649,12-06-2017 21:10,12-06-2017 21:40,1777,West St & Chambers St,11 Ave & W 59 St,Subscriber,Female,1958
+5868762,14-06-2017 17:17,14-06-2017 17:56,2358,Henry St & Grand St,E 76 St & 3 Ave,Subscriber,Female,1982
+74339,05-01-2017 06:44,05-01-2017 06:50,384,8 Ave & W 31 St,Greenwich Ave & 8 Ave,Subscriber,Male,1978
+3061605,19-04-2017 18:20,19-04-2017 18:35,909,W 31 St & 7 Ave,Cleveland Pl & Spring St,Subscriber,Male,1988
+1226634,21-02-2017 08:17,21-02-2017 08:26,550,Pershing Square North,E 17 St & Broadway,Subscriber,Male,1969
+3674241,02-05-2017 20:47,02-05-2017 20:50,154,Riverside Dr & W 104 St,W 106 St & Amsterdam Ave,Subscriber,Male,1992
+481343,22-01-2017 11:20,22-01-2017 11:23,191,W 13 St & 5 Ave,Washington Pl & 6 Ave,Subscriber,Male,1978
+1005386,14-02-2017 07:39,14-02-2017 07:55,939,W 82 St & Central Park West,5 Ave & E 88 St,Subscriber,Male,1957
+3648389,02-05-2017 15:23,02-05-2017 16:02,2298,S 4 St & Rodney St,Throop Ave & Myrtle Ave,Subscriber,Female,1987
+2976840,18-04-2017 07:44,18-04-2017 07:57,794,MacDougal St & Prince St,Broad St & Bridge St,Subscriber,Male,1965
+1339852,24-02-2017 07:57,24-02-2017 08:20,1377,Columbus Ave & W 72 St,E 17 St & Broadway,Subscriber,Male,1972
+3780563,04-05-2017 18:03,04-05-2017 18:57,3219,W 52 St & 11 Ave,E 7 St & Avenue A,Subscriber,Female,1993
+2773160,13-04-2017 21:13,13-04-2017 21:21,465,Bayard St & Baxter St,Peck Slip & Front St,Subscriber,Male,1980
+565683,26-01-2017 07:34,26-01-2017 07:42,447,E 2 St & Avenue C,Great Jones St,Subscriber,Male,1971
+2535354,09-04-2017 13:26,09-04-2017 13:49,1371,Lafayette St & E 8 St,South St & Gouverneur Ln,Subscriber,Male,1984
+1395793,25-02-2017 12:56,25-02-2017 13:03,401,E 25 St & 1 Ave,E 7 St & Avenue A,Subscriber,Female,1987
+5320479,05-06-2017 07:58,05-06-2017 09:21,5004,Brooklyn Bridge Park - Pier 2,Cadman Plaza E & Tillary St,Customer,,
+4070651,11-05-2017 07:26,11-05-2017 07:33,425,Commerce St & Van Brunt St,Atlantic Ave & Furman St,Subscriber,Female,1979
+4389700,17-05-2017 17:57,17-05-2017 18:06,562,Jackson Ave & 46 Rd,46 Ave & 5 St,Customer,,
+6800377,30-06-2017 17:41,30-06-2017 17:44,170,W 20 St & 8 Ave,W 26 St & 8 Ave,Subscriber,Male,1957
+5681294,11-06-2017 13:16,11-06-2017 13:21,272,Mercer St & Bleecker St,E 12 St & 3 Ave,Subscriber,Male,1966
+6009055,16-06-2017 20:05,16-06-2017 20:29,1413,Throop Ave & Myrtle Ave,Forsyth St & Broome St,Subscriber,Female,1986
+1688397,06-03-2017 21:28,06-03-2017 21:31,188,E 81 St & York Ave,E 74 St & 1 Ave,Subscriber,Male,1986
+2733599,13-04-2017 09:04,13-04-2017 09:12,470,E 4 St & 2 Ave,Franklin St & W Broadway,Subscriber,Male,1993
+1345999,24-02-2017 09:21,24-02-2017 09:37,979,E 32 St & Park Ave,Cleveland Pl & Spring St,Subscriber,Male,1981
+2031987,24-03-2017 08:56,24-03-2017 09:10,857,E 25 St & 2 Ave,W 13 St & 5 Ave,Subscriber,Female,1988
+6587469,27-06-2017 13:55,27-06-2017 14:01,382,W 13 St & 6 Ave,W 24 St & 7 Ave,Subscriber,Male,1951
+252422,13-01-2017 08:06,13-01-2017 08:23,1041,Carmine St & 6 Ave,Broadway & E 22 St,Subscriber,Male,1979
+3670576,02-05-2017 19:38,02-05-2017 20:21,2555,W 41 St & 8 Ave,Broadway & W 53 St,Subscriber,Male,1982
+5121541,01-06-2017 16:19,01-06-2017 16:28,528,John St & William St,Bayard St & Baxter St,Subscriber,Male,1966
+4729862,24-05-2017 08:15,24-05-2017 08:21,338,E 25 St & 1 Ave,E 24 St & Park Ave S,Subscriber,Male,1971
+4766125,24-05-2017 18:02,24-05-2017 18:12,563,W Broadway & Spring St,W 13 St & 6 Ave,Subscriber,Male,1956
+2321677,03-04-2017 09:56,03-04-2017 10:21,1481,Fulton St & Rockwell Pl,W 13 St & 5 Ave,Subscriber,Male,1976
+6014149,16-06-2017 23:03,16-06-2017 23:07,209,E 4 St & 2 Ave,E 7 St & Avenue A,Subscriber,Male,1978
+2981738,18-04-2017 08:42,18-04-2017 08:48,378,1 Ave & E 68 St,E 55 St & 3 Ave,Subscriber,Male,1988
+4637472,21-05-2017 22:11,21-05-2017 22:23,690,Banker St & Meserole Ave,Metropolitan Ave & Bedford Ave,Customer,,
+3485563,29-04-2017 14:12,29-04-2017 14:36,1440,W 39 St & 9 Ave,Broadway & W 58 St,Customer,,
+1852173,12-03-2017 18:11,12-03-2017 18:22,685,W 78 St & Broadway,W 47 St & 10 Ave,Subscriber,Male,1992
+1852067,12-03-2017 18:05,12-03-2017 18:14,571,8 Ave & W 16 St,W 20 St & 11 Ave,Subscriber,Male,1970
+4428854,18-05-2017 10:32,18-05-2017 10:38,346,8 Ave & W 31 St,11 Ave & W 27 St,Subscriber,Male,1990
+1802466,09-03-2017 19:28,09-03-2017 19:35,428,E 15 St & 3 Ave,E 3 St & 1 Ave,Subscriber,Male,1987
+3791506,04-05-2017 20:46,04-05-2017 21:01,902,Cherry St,E 27 St & 1 Ave,Subscriber,Male,1987
+932001,08-02-2017 09:29,08-02-2017 09:37,449,Columbus Ave & W 72 St,11 Ave & W 59 St,Subscriber,Female,1985
+261652,13-01-2017 11:48,13-01-2017 12:00,709,York St & Jay St,Rivington St & Chrystie St,Subscriber,Male,1968
+5465012,07-06-2017 19:07,07-06-2017 19:13,348,West St & Chambers St,Watts St & Greenwich St,Subscriber,,
+5353666,05-06-2017 17:52,05-06-2017 18:10,1053,York St & Jay St,E 5 St & Avenue C,Subscriber,Male,1986
+3244281,24-04-2017 07:51,24-04-2017 08:02,662,Cleveland Pl & Spring St,E 17 St & Broadway,Subscriber,Male,1967
+2674970,12-04-2017 07:12,12-04-2017 07:15,191,Hudson St & Reade St,Centre St & Chambers St,Subscriber,Male,1975
+2722449,12-04-2017 22:58,12-04-2017 23:01,175,Bond St & Schermerhorn St,Bond St & Bergen St,Subscriber,Male,1974
+1544609,01-03-2017 17:37,01-03-2017 17:49,733,E 16 St & 5 Ave,St Marks Pl & 2 Ave,Subscriber,Male,1973
+811593,03-02-2017 14:19,03-02-2017 14:23,278,5 Ave & E 78 St,5 Ave & E 73 St,Customer,,
+4859668,27-05-2017 09:23,27-05-2017 09:58,2098,9 Ave & W 22 St,W 20 St & 11 Ave,Subscriber,Male,1977
+2616793,11-04-2017 06:48,11-04-2017 06:52,252,Columbia Heights & Cranberry St,Hicks St & Montague St,Subscriber,Female,1987
+2325362,03-04-2017 12:16,03-04-2017 12:49,1946,York St & Jay St,Rivington St & Chrystie St,Subscriber,Male,1985
+1855578,13-03-2017 05:46,13-03-2017 05:56,575,W 31 St & 7 Ave,E 15 St & 3 Ave,Subscriber,Male,1975
+1740477,08-03-2017 14:48,08-03-2017 15:07,1118,E 53 St & Madison Ave,East End Ave & E 86 St,Subscriber,Male,1963
+5391272,06-06-2017 16:13,06-06-2017 17:00,2864,Bayard St & Baxter St,Bayard St & Baxter St,Subscriber,Male,1988
+1988318,22-03-2017 17:52,22-03-2017 18:07,929,E 16 St & 5 Ave,W 33 St & 7 Ave,Subscriber,Male,1977
+3231592,23-04-2017 18:30,23-04-2017 18:43,795,Pershing Square South,5 Ave & E 29 St,Customer,,
+1800756,09-03-2017 18:55,09-03-2017 19:04,569,2 Ave & E 31 St,6 Ave & W 33 St,Subscriber,Male,1983
+4037086,10-05-2017 15:03,10-05-2017 15:19,943,E 2 St & Avenue B,Barclay St & Church St,Subscriber,Male,1987
+6328501,22-06-2017 20:25,22-06-2017 20:59,2056,Riverside Dr & W 72 St,West St & Chambers St,Customer,,
+1873481,13-03-2017 17:37,13-03-2017 17:47,600,Carmine St & 6 Ave,E 19 St & 3 Ave,Subscriber,Male,1954
+6145337,20-06-2017 08:10,20-06-2017 08:31,1239,E 13 St & Avenue A,E 40 St & 5 Ave,Subscriber,Male,1981
+60804,04-01-2017 16:57,04-01-2017 17:06,582,5 Ave & E 78 St,E 65 St & 2 Ave,Subscriber,Male,1987
+6157470,20-06-2017 11:41,20-06-2017 12:13,1909,E 55 St & 2 Ave,E 81 St & 3 Ave,Subscriber,Female,1973
+97974,05-01-2017 19:28,05-01-2017 19:35,398,W 43 St & 6 Ave,W 33 St & 7 Ave,Subscriber,Male,1964
+1531863,01-03-2017 09:33,01-03-2017 09:36,174,York St & Jay St,Old Fulton St,Subscriber,Male,1977
+3836835,06-05-2017 13:27,06-05-2017 13:53,1559,E 10 St & Avenue A,W 45 St & 8 Ave,Subscriber,Male,1971
+4603213,21-05-2017 13:23,21-05-2017 13:41,1061,Myrtle Ave & Lewis Ave,DeKalb Ave & S Portland Ave,Subscriber,Female,1985
+5578346,09-06-2017 16:19,09-06-2017 16:26,394,Murray St & Greenwich St,Front St & Maiden Ln,Subscriber,Male,1963
+6727845,29-06-2017 16:10,29-06-2017 16:19,558,E 33 St & 5 Ave,W 22 St & 8 Ave,Subscriber,Male,1965
+638046,28-01-2017 13:52,28-01-2017 13:56,218,9 Ave & W 22 St,W 20 St & 7 Ave,Subscriber,Female,1968
+5767534,12-06-2017 20:45,12-06-2017 20:56,713,W 20 St & 11 Ave,6 Ave & Canal St,Subscriber,Male,1985
+5610896,10-06-2017 08:54,10-06-2017 08:57,205,Henry St & Poplar St,Hicks St & Montague St,Subscriber,Male,1981
+6675217,28-06-2017 18:24,28-06-2017 18:32,451,University Pl & E 14 St,Mercer St & Bleecker St,Subscriber,Male,1956
+5292881,04-06-2017 13:01,04-06-2017 13:09,480,E 91 St & Park Ave,Central Park W & W 96 St,Subscriber,Male,1998
+508616,23-01-2017 13:54,23-01-2017 14:00,364,E 17 St & Broadway,W 4 St & 7 Ave S,Subscriber,Male,1980
+6094716,18-06-2017 20:41,18-06-2017 20:56,879,DeKalb Ave & Hudson Ave,Emerson Pl & Myrtle Ave,Subscriber,Female,1982
+13019,01-01-2017 18:26,01-01-2017 18:38,732,W 43 St & 10 Ave,W 24 St & 7 Ave,Subscriber,Male,1967
+4841890,26-05-2017 17:51,26-05-2017 17:57,383,E 2 St & 2 Ave,E 2 St & Avenue B,Customer,,
+164991,10-01-2017 16:10,10-01-2017 16:16,412,W 18 St & 6 Ave,Washington Pl & 6 Ave,Subscriber,Male,1987
+6485193,25-06-2017 18:37,25-06-2017 19:08,1898,9 Ave & W 22 St,Murray St & Greenwich St,Customer,,
+2708797,12-04-2017 18:18,12-04-2017 18:23,286,Willoughby St & Fleet St,Clinton Ave & Myrtle Ave,Subscriber,Male,1967
+5437998,07-06-2017 13:20,07-06-2017 13:28,444,Watts St & Greenwich St,Greenwich Ave & 8 Ave,Subscriber,Male,1992
+333045,16-01-2017 19:09,16-01-2017 19:21,689,E 27 St & 1 Ave,E 7 St & Avenue A,Subscriber,Male,1989
+2914400,16-04-2017 20:12,16-04-2017 20:31,1123,Cleveland Pl & Spring St,Vesey Pl & River Terrace,Customer,,
+5612834,10-06-2017 09:43,10-06-2017 09:48,306,Liberty St & Broadway,West St & Chambers St,Subscriber,Female,1966
+1656022,05-03-2017 20:29,05-03-2017 20:34,335,Barrow St & Hudson St,Greenwich St & Hubert St,Subscriber,Female,1973
+5519049,08-06-2017 17:38,08-06-2017 17:48,586,W 52 St & 6 Ave,1 Ave & E 62 St,Subscriber,Male,1981
+3311490,26-04-2017 08:27,26-04-2017 08:32,331,Driggs Ave & N Henry St,Graham Ave & Conselyea St,Subscriber,Female,1981
+1992476,22-03-2017 19:31,22-03-2017 19:36,323,Suffolk St & Stanton St,Henry St & Grand St,Subscriber,Female,1979
+1228070,21-02-2017 08:40,21-02-2017 09:06,1534,E 85 St & 3 Ave,W 38 St & 8 Ave,Subscriber,,
+4838030,26-05-2017 17:04,26-05-2017 17:35,1844,Greenwich Ave & 8 Ave,Amsterdam Ave & W 82 St,Subscriber,Male,1969
+3730330,03-05-2017 19:33,03-05-2017 19:35,127,Richardson St & N Henry St,Driggs Ave & N Henry St,Subscriber,Male,1986
+4744323,24-05-2017 12:18,24-05-2017 12:22,250,8 Ave & W 33 St,W 34 St & 11 Ave,Subscriber,Male,1968
+1336431,24-02-2017 05:58,24-02-2017 06:07,548,MacDougal St & Prince St,University Pl & E 14 St,Subscriber,Male,1991
+3499018,29-04-2017 16:57,29-04-2017 17:01,251,Old Fulton St,York St & Jay St,Subscriber,Female,1993
+5224207,03-06-2017 09:46,03-06-2017 09:49,152,Lexington Ave & E 24 St,E 17 St & Broadway,Subscriber,Male,1989
+90239,05-01-2017 16:29,05-01-2017 16:35,393,Stanton St & Chrystie St,Bialystoker Pl & Delancey St,Subscriber,Male,1967
+5028629,31-05-2017 07:53,31-05-2017 08:10,1044,W 13 St & Hudson St,Bus Slip & State St,Subscriber,Male,1958
+2151889,28-03-2017 17:39,28-03-2017 17:58,1154,5 Ave & E 78 St,E 55 St & Lexington Ave,Subscriber,Male,1986
+1614133,03-03-2017 16:13,03-03-2017 16:16,157,Bus Slip & State St,South St & Gouverneur Ln,Subscriber,Male,1959
+3679761,03-05-2017 05:47,03-05-2017 05:51,263,W 42 St & 8 Ave,W 53 St & 10 Ave,Subscriber,Male,1983
+2046243,24-03-2017 17:03,24-03-2017 17:13,576,Broadway & E 14 St,Allen St & Rivington St,Subscriber,Male,1952
+2797272,14-04-2017 13:40,14-04-2017 13:47,425,Bond St & Schermerhorn St,Concord St & Bridge St,Subscriber,Male,1983
+2336276,03-04-2017 16:59,03-04-2017 17:09,595,Front St & Maiden Ln,Leonard St & Church St,Subscriber,Male,1977
+1650797,05-03-2017 15:57,05-03-2017 16:05,446,8 Ave & W 52 St,E 59 St & Madison Ave,Subscriber,Male,1975
+2222971,30-03-2017 16:24,30-03-2017 16:40,953,Cadman Plaza West & Montague St,Willoughby Ave & Hall St,Subscriber,Female,1976
+5229439,03-06-2017 11:28,03-06-2017 11:32,264,Grand St & Elizabeth St,St James Pl & Oliver St,Subscriber,Male,1986
+6124133,19-06-2017 14:16,19-06-2017 14:26,626,Mercer St & Bleecker St,E 2 St & Avenue C,Subscriber,Female,1978
+2986961,18-04-2017 09:52,18-04-2017 09:56,255,Rivington St & Chrystie St,W Broadway & Spring St,Subscriber,Male,1990
+484619,22-01-2017 12:59,22-01-2017 13:17,1104,Central Park W & W 96 St,Central Park West & W 76 St,Customer,,
+6513933,26-06-2017 10:08,26-06-2017 10:11,210,W 18 St & 6 Ave,W 25 St & 6 Ave,Subscriber,Male,1986
+4066898,11-05-2017 00:02,11-05-2017 00:09,443,Bayard St & Baxter St,Duane St & Greenwich St,Subscriber,Male,1990
+5910105,15-06-2017 09:44,15-06-2017 09:57,778,Lafayette St & E 8 St,W 37 St & Broadway,Subscriber,Male,1983
+525383,24-01-2017 22:36,24-01-2017 22:51,935,W 100 St & Manhattan Ave,W 100 St & Manhattan Ave,Subscriber,Female,1971
+4476647,19-05-2017 06:45,19-05-2017 06:57,693,9 Ave & W 22 St,E 27 St & 1 Ave,Subscriber,,
+6202918,21-06-2017 00:51,21-06-2017 00:59,478,Graham Ave & Withers St,Leonard St & Boerum St,Subscriber,Male,1981
+2700762,12-04-2017 16:58,12-04-2017 17:08,629,W 26 St & 10 Ave,W 46 St & 11 Ave,Customer,,
+2521692,09-04-2017 06:42,09-04-2017 06:48,373,Catherine St & Monroe St,Stanton St & Chrystie St,Subscriber,Male,1988
+5032247,31-05-2017 08:40,31-05-2017 09:04,1427,E 5 St & Avenue C,South End Ave & Liberty St,Subscriber,Female,1981
+5644424,10-06-2017 17:07,10-06-2017 17:54,2812,W 46 St & 11 Ave,Central Park W & W 96 St,Customer,,
+2653382,11-04-2017 17:41,11-04-2017 17:55,833,W 43 St & 6 Ave,Central Park West & W 68 St,Customer,,
+5709658,11-06-2017 20:41,11-06-2017 20:47,354,Graham Ave & Conselyea St,Bedford Ave & Nassau Ave,Subscriber,Male,1985
+6424275,24-06-2017 17:09,24-06-2017 17:24,905,W 92 St & Broadway,Broadway & W 60 St,Subscriber,Male,1982
+4072316,11-05-2017 07:51,11-05-2017 08:08,1052,E 75 St & 3 Ave,Broadway & W 41 St,Subscriber,Male,1994
+3134923,21-04-2017 15:09,21-04-2017 15:16,414,W 27 St & 7 Ave,W 26 St & 10 Ave,Subscriber,Male,1962
+5912605,15-06-2017 10:38,15-06-2017 10:45,382,E 25 St & 2 Ave,5 Ave & E 29 St,Subscriber,Male,1983
+3429349,28-04-2017 15:16,28-04-2017 15:19,167,West St & Chambers St,Warren St & Church St,Subscriber,Male,1975
+2335375,03-04-2017 16:44,03-04-2017 17:01,1036,E 39 St & 3 Ave,E 85 St & 3 Ave,Subscriber,Male,1961
+5212058,02-06-2017 20:05,02-06-2017 20:10,347,W 67 St & Broadway,W 54 St & 9 Ave,Subscriber,Female,1972
+6632689,28-06-2017 08:00,28-06-2017 08:05,285,Central Park West & W 85 St,Riverside Dr & W 82 St,Subscriber,Female,1952
+6577293,27-06-2017 10:07,27-06-2017 10:11,240,E 40 St & 5 Ave,Broadway & W 36 St,Subscriber,Male,1986
+789042,02-02-2017 18:30,02-02-2017 18:38,480,E 39 St & 3 Ave,Broadway & W 36 St,Subscriber,Female,1988
+533071,25-01-2017 08:54,25-01-2017 09:03,563,1 Ave & E 18 St,8 Ave & W 16 St,Subscriber,Male,1988
+1161267,19-02-2017 12:05,19-02-2017 12:19,809,E 11 St & 1 Ave,Great Jones St,Subscriber,Female,1987
+1460540,27-02-2017 16:24,27-02-2017 16:33,482,W 43 St & 10 Ave,8 Ave & W 52 St,Subscriber,Female,1985
+413501,19-01-2017 18:05,19-01-2017 18:19,843,Division St & Bowery,Broadway & E 14 St,Subscriber,Male,1998
+1774470,09-03-2017 09:20,09-03-2017 09:38,1071,William St & Pine St,W 14 St & The High Line,Subscriber,Male,1994
+4245289,15-05-2017 12:54,15-05-2017 12:58,247,Court St & State St,Henry St & Degraw St,Subscriber,Male,1981
+6636090,28-06-2017 08:35,28-06-2017 08:39,224,Broadway & W 41 St,Pershing Square North,Subscriber,Male,1991
+4347329,17-05-2017 06:54,17-05-2017 06:59,344,2 Ave & E 96 St,Madison Ave & E 99 St,Subscriber,Male,1985
+1723451,08-03-2017 08:03,08-03-2017 08:12,542,W 92 St & Broadway,Cathedral Pkwy & Broadway,Subscriber,Male,1950
+5370049,05-06-2017 22:27,05-06-2017 22:44,1007,Broadway & Berry St,Lafayette Ave & Fort Greene Pl,Subscriber,Male,1984
+5990561,16-06-2017 16:00,16-06-2017 16:28,1641,Broadway & W 49 St,Murray St & West St,Subscriber,Male,1971
+945491,08-02-2017 16:16,08-02-2017 16:21,346,South End Ave & Liberty St,Bus Slip & State St,Subscriber,Female,1966
+4605460,21-05-2017 13:49,21-05-2017 14:00,613,Allen St & Rivington St,E 23 St & 1 Ave,Subscriber,Male,1971
+1257792,22-02-2017 07:32,22-02-2017 07:37,268,E 35 St & 3 Ave,E 47 St & 2 Ave,Subscriber,Male,1991
+6471975,25-06-2017 15:29,25-06-2017 15:45,989,LaGuardia Pl & W 3 St,Suffolk St & Stanton St,Subscriber,Female,1971
+5546689,09-06-2017 08:07,09-06-2017 08:12,282,Pier 40 - Hudson River Park,Carmine St & 6 Ave,Subscriber,Male,1991
+2567163,10-04-2017 07:24,10-04-2017 07:30,349,Pershing Square North,2 Ave & E 31 St,Subscriber,Male,1975
+5400568,06-06-2017 18:14,06-06-2017 18:29,893,W 20 St & 11 Ave,W 4 St & 7 Ave S,Subscriber,Female,1970
+6437691,24-06-2017 20:49,24-06-2017 21:01,755,West St & Chambers St,Greenwich Ave & 8 Ave,Subscriber,Male,1981
+594062,26-01-2017 21:36,26-01-2017 21:39,201,E 76 St & 3 Ave,E 80 St & 2 Ave,Subscriber,Male,1988
+3419616,28-04-2017 12:22,28-04-2017 12:34,695,William St & Pine St,Murray St & West St,Subscriber,Male,1990
+4432667,18-05-2017 12:10,18-05-2017 12:18,461,W 43 St & 6 Ave,W 43 St & 10 Ave,Subscriber,Male,1947
+2783819,14-04-2017 09:11,14-04-2017 09:15,223,Columbus Ave & W 72 St,W 63 St & Broadway,Subscriber,Male,1974
+6726492,29-06-2017 15:48,29-06-2017 16:01,797,Duane St & Greenwich St,South End Ave & Liberty St,Customer,,
+2315732,03-04-2017 08:22,03-04-2017 08:26,262,Avenue D & E 12 St,E 20 St & FDR Drive,Subscriber,Male,1985
+5689895,11-06-2017 15:21,11-06-2017 15:28,424,1 Ave & E 44 St,E 55 St & 2 Ave,Subscriber,Female,1956
+5506007,08-06-2017 14:28,08-06-2017 14:38,612,5 Ave & E 88 St,Central Park North & Adam Clayton Powell Blvd,Customer,,
+2394909,05-04-2017 09:33,05-04-2017 09:51,1091,West St & Chambers St,W 21 St & 6 Ave,Subscriber,Male,1951
+6131499,19-06-2017 16:49,19-06-2017 16:59,584,Emerson Pl & Myrtle Ave,Myrtle Ave & Lewis Ave,Subscriber,Male,1962
+273552,13-01-2017 17:34,13-01-2017 17:39,290,Broadway & W 60 St,Columbus Ave & W 72 St,Subscriber,Male,1972
+5532513,08-06-2017 20:01,08-06-2017 20:04,157,Albany Ave & Fulton St,Lewis Ave & Decatur St,Subscriber,Male,1988
+2452997,07-04-2017 08:03,07-04-2017 08:19,975,Cooper Square & E 7 St,Vesey Pl & River Terrace,Subscriber,Male,1960
+5797031,13-06-2017 13:07,13-06-2017 13:12,302,W 55 St & 6 Ave,E 48 St & 5 Ave,Subscriber,Male,1942
+4165560,12-05-2017 17:45,12-05-2017 18:04,1124,Little West St & 1 Pl,W 24 St & 7 Ave,Subscriber,Male,1993
+246721,12-01-2017 22:20,12-01-2017 22:26,396,Pike St & E Broadway,Peck Slip & Front St,Subscriber,Male,1971
+2618484,11-04-2017 07:32,11-04-2017 08:00,1682,Broadway & Roebling St,E 47 St & 2 Ave,Subscriber,Male,1986
+588189,26-01-2017 18:32,26-01-2017 18:38,385,Hanson Pl & Ashland Pl,Washington Park,Subscriber,Male,1981
+4412004,18-05-2017 06:15,18-05-2017 06:43,1727,W 74 St & Columbus Ave,West St & Chambers St,Subscriber,Male,1992
+1277230,22-02-2017 16:47,22-02-2017 16:55,505,E 5 St & Avenue C,Washington Pl & 6 Ave,Subscriber,Male,1983
+3989900,09-05-2017 17:38,09-05-2017 17:48,618,S Portland Ave & Hanson Pl,Carroll St & 6 Ave,Subscriber,,
+6373271,23-06-2017 16:54,23-06-2017 17:17,1333,Broadway & W 60 St,E 20 St & Park Ave,Subscriber,Male,1981
+5570249,09-06-2017 14:27,09-06-2017 14:32,293,Boerum St & Broadway,Hope St & Union Ave,Subscriber,Male,1982
+6395164,24-06-2017 10:04,24-06-2017 10:15,683,Bushwick Ave & Powers St,Norman Ave & Leonard St - 2,Subscriber,Female,1981
+1835694,11-03-2017 15:31,11-03-2017 15:37,349,W 16 St & The High Line,W 22 St & 8 Ave,Subscriber,Female,1962
+4027948,10-05-2017 11:30,10-05-2017 11:42,714,Greenwich Ave & Charles St,W Broadway & Spring St,Subscriber,Female,1998
+154707,10-01-2017 07:50,10-01-2017 07:53,189,DeKalb Ave & S Portland Ave,Fulton St & Rockwell Pl,Subscriber,Male,1985
+2547596,09-04-2017 16:09,09-04-2017 16:21,765,E 10 St & Avenue A,Division St & Bowery,Subscriber,Male,1995
+5545571,09-06-2017 07:54,09-06-2017 07:58,278,Adelphi St & Myrtle Ave,Fulton St & Rockwell Pl,Subscriber,Male,1981
+2554297,09-04-2017 17:46,09-04-2017 17:52,350,E 11 St & Broadway,E 10 St & Avenue A,Subscriber,Female,1982
+1224012,21-02-2017 07:10,21-02-2017 07:21,661,E 84 St & Park Ave,1 Ave & E 62 St,Subscriber,Male,1953
+1767693,09-03-2017 07:54,09-03-2017 07:59,323,W 42 St & Dyer Ave,8 Ave & W 33 St,Subscriber,Male,1991
+3899420,07-05-2017 22:07,07-05-2017 22:16,514,Jay St & Tech Pl,Henry St & Degraw St,Subscriber,Male,1980
+2267204,01-04-2017 20:14,01-04-2017 20:24,649,Central Park West & W 68 St,Amsterdam Ave & W 82 St,Subscriber,Male,1950
+1203329,20-02-2017 13:44,20-02-2017 14:01,1004,11 Ave & W 59 St,W 34 St & 11 Ave,Customer,,
+1940925,21-03-2017 09:32,21-03-2017 09:41,544,E 23 St & 1 Ave,E 33 St & 5 Ave,Subscriber,Male,1989
+3994748,09-05-2017 18:21,09-05-2017 18:31,577,Vernon Blvd & 50 Ave,Norman Ave & Leonard St - 2,Subscriber,Male,1969
+6045473,17-06-2017 20:22,17-06-2017 20:25,177,University Pl & E 8 St,Sullivan St & Washington Sq,Subscriber,Male,1995
+1030616,14-02-2017 20:39,14-02-2017 21:04,1455,9 Ave & W 45 St,W 107 St & Columbus Ave,Subscriber,Male,1992
+5882643,14-06-2017 19:25,14-06-2017 19:41,988,E 81 St & York Ave,Amsterdam Ave & W 73 St,Subscriber,Male,1981
+3095107,20-04-2017 16:36,20-04-2017 16:47,669,E 65 St & 2 Ave,Central Park West & W 76 St,Subscriber,Male,1988
+5836197,14-06-2017 07:05,14-06-2017 07:11,340,Broadway & W 51 St,E 51 St & Lexington Ave,Subscriber,Male,1968
+5847078,14-06-2017 10:27,14-06-2017 10:40,807,Broadway & W 32 St,E 33 St & 2 Ave,Subscriber,Male,1987
+510876,23-01-2017 16:41,23-01-2017 16:48,372,University Pl & E 14 St,Washington Pl & Broadway,Subscriber,Female,1988
+1432757,26-02-2017 16:27,26-02-2017 16:33,338,MacDougal St & Washington Sq,W 18 St & 6 Ave,Subscriber,Male,1965
+6788542,30-06-2017 15:06,30-06-2017 15:31,1534,W 49 St & 8 Ave,E 10 St & Avenue A,Subscriber,Male,1993
+6027395,17-06-2017 12:00,17-06-2017 12:06,332,W 20 St & 11 Ave,9 Ave & W 28 St,Subscriber,Male,1990
+3327599,26-04-2017 16:52,26-04-2017 17:09,1001,W 17 St & 8 Ave,Pershing Square North,Subscriber,Male,1960
+4648323,22-05-2017 09:42,22-05-2017 09:51,529,Duane St & Greenwich St,Forsyth St & Canal St,Subscriber,Female,1990
+4793031,25-05-2017 17:13,25-05-2017 17:28,909,Greenwich St & W Houston St,W 38 St & 8 Ave,Subscriber,Male,1973
+1603846,03-03-2017 09:38,03-03-2017 09:39,103,Front St & Washington St,Cadman Plaza E & Red Cross Pl,Subscriber,Male,1976
+6355219,23-06-2017 11:20,23-06-2017 11:34,827,45 Rd & 11 St,Center Blvd & Borden Ave,Customer,Male,1995
+4089351,11-05-2017 12:46,11-05-2017 13:00,894,E 6 St & Avenue D,Forsyth St & Broome St,Subscriber,Male,1967
+4155251,12-05-2017 15:35,12-05-2017 16:19,2635,Brooklyn Bridge Park - Pier 2,E 17 St & Broadway,Customer,,
+1799886,09-03-2017 18:40,09-03-2017 19:12,1913,Water - Whitehall Plaza,Hanson Pl & Ashland Pl,Subscriber,Male,1987
+1898321,19-03-2017 14:47,19-03-2017 14:57,599,Central Park S & 6 Ave,W 70 St & Amsterdam Ave,Subscriber,Male,1985
+2579023,10-04-2017 11:18,10-04-2017 11:23,285,W 43 St & 6 Ave,9 Ave & W 45 St,Subscriber,Male,1992
+797851,03-02-2017 06:55,03-02-2017 07:01,402,5 Ave & 3 St,Dean St & 4 Ave,Subscriber,Male,1972
+1745464,08-03-2017 16:49,08-03-2017 17:04,898,E 55 St & Lexington Ave,E 39 St & 2 Ave,Subscriber,Male,1981
+799092,03-02-2017 07:41,03-02-2017 08:07,1572,W 11 St & 6 Ave,1 Ave & E 68 St,Subscriber,Female,1978
+3932991,08-05-2017 17:26,08-05-2017 17:32,415,W 17 St & 8 Ave,W 27 St & 7 Ave,Subscriber,Female,1986
+4611157,21-05-2017 14:56,21-05-2017 15:06,594,Lafayette St & E 8 St,E 17 St & Broadway,Customer,,
+2929750,17-04-2017 09:10,17-04-2017 09:14,270,9 Ave & W 18 St,E 16 St & 5 Ave,Subscriber,Male,1988
+5126608,01-06-2017 17:18,01-06-2017 17:25,442,W 44 St & 5 Ave,W 38 St & 8 Ave,Subscriber,Male,1975
+5553365,09-06-2017 09:15,09-06-2017 09:23,493,E 102 St & 1 Ave,E 81 St & York Ave,Subscriber,Male,1992
+3962988,09-05-2017 08:51,09-05-2017 08:59,509,Christopher St & Greenwich St,W 27 St & 7 Ave,Subscriber,Female,1993
+6376222,23-06-2017 17:25,23-06-2017 17:31,345,Meserole Ave & Manhattan Ave,Berry St & N 8 St,Subscriber,Male,1982
+3694433,03-05-2017 09:39,03-05-2017 10:05,1539,Monroe St & Classon Ave,Grand St & Elizabeth St,Subscriber,Male,1987
+3163527,22-04-2017 10:53,22-04-2017 10:59,341,Eckford St & Engert Ave,N 8 St & Driggs Ave,Subscriber,Male,1959
+5368899,05-06-2017 21:37,05-06-2017 21:44,422,University Pl & E 8 St,E 11 St & 1 Ave,Subscriber,Female,1988
+272434,13-01-2017 17:13,13-01-2017 17:21,476,Pershing Square North,E 58 St & 3 Ave,Subscriber,Male,1988
+3575288,01-05-2017 10:20,01-05-2017 10:53,2017,Broadway & W 51 St,W 13 St & 5 Ave,Customer,,
+2320669,03-04-2017 09:32,03-04-2017 09:36,260,W 13 St & Hudson St,W 20 St & 7 Ave,Subscriber,Male,1975
+4370534,17-05-2017 13:14,17-05-2017 13:21,445,Cadman Plaza E & Tillary St,Hicks St & Montague St,Subscriber,Male,1973
+2647378,11-04-2017 16:34,11-04-2017 16:51,1022,9 Ave & W 45 St,W 53 St & 10 Ave,Subscriber,Male,1975
+1964284,21-03-2017 19:53,21-03-2017 20:00,454,MacDougal St & Prince St,W 21 St & 6 Ave,Subscriber,Male,1963
+120263,06-01-2017 18:13,06-01-2017 18:23,610,W 38 St & 8 Ave,W 20 St & 11 Ave,Subscriber,Male,1979
+485112,22-01-2017 13:13,22-01-2017 13:18,269,Graham Ave & Grand St,Metropolitan Ave & Meeker Ave,Subscriber,Female,1981
+5575264,09-06-2017 15:41,09-06-2017 15:47,371,E 16 St & 5 Ave,6 Ave & W 33 St,Subscriber,Male,1966
+4774471,24-05-2017 19:22,24-05-2017 19:49,1646,W 27 St & 7 Ave,W 95 St & Broadway,Subscriber,Male,1965
+4589251,21-05-2017 09:50,21-05-2017 10:17,1641,Barclay St & Church St,Barclay St & Church St,Subscriber,Female,1978
+6536890,26-06-2017 17:31,26-06-2017 17:57,1551,W 41 St & 8 Ave,21 St & Queens Plaza North,Subscriber,Male,1994
+3694987,03-05-2017 09:49,03-05-2017 09:55,342,W 25 St & 6 Ave,W 13 St & 6 Ave,Subscriber,Male,1990
+6297900,22-06-2017 13:54,22-06-2017 14:13,1176,York St & Jay St,Barclay St & Church St,Subscriber,Male,1971
+6276441,22-06-2017 07:55,22-06-2017 08:32,2245,West End Ave & W 107 St,University Pl & E 14 St,Subscriber,Male,1990
+4228605,15-05-2017 07:24,15-05-2017 07:42,1060,W 42 St & 8 Ave,E 72 St & York Ave,Subscriber,Male,1960
+6054536,18-06-2017 09:25,18-06-2017 09:27,151,Rivington St & Chrystie St,Mott St & Prince St,Subscriber,Male,1981
+4064209,10-05-2017 21:33,10-05-2017 21:39,337,W 41 St & 8 Ave,W 37 St & 5 Ave,Subscriber,Female,1970
+2880543,16-04-2017 11:35,16-04-2017 12:03,1703,Graham Ave & Herbert St,E 25 St & 1 Ave,Subscriber,Male,1993
+1500135,28-02-2017 15:53,28-02-2017 16:02,543,8 Ave & W 31 St,Broadway & W 55 St,Subscriber,Male,1992
+2006709,23-03-2017 12:45,23-03-2017 13:08,1344,31 St & Thomson Ave,1 Ave & E 78 St,Subscriber,Male,1984
+629185,28-01-2017 07:37,28-01-2017 07:39,97,2 Ave & E 31 St,E 31 St & 3 Ave,Subscriber,Female,1982
+192292,11-01-2017 14:58,11-01-2017 15:04,371,W 34 St & 11 Ave,W 33 St & 7 Ave,Subscriber,Male,1967
+898044,06-02-2017 22:20,06-02-2017 22:25,312,Cooper Square & E 7 St,E 19 St & 3 Ave,Subscriber,Female,1989
+4264483,15-05-2017 18:14,15-05-2017 18:26,761,Tompkins Ave & Hopkins St,Nassau Ave & Newell St,Subscriber,Male,1981
+5899528,15-06-2017 07:43,15-06-2017 07:52,564,11 Ave & W 27 St,8 Ave & W 16 St,Subscriber,Male,1950
+6754379,29-06-2017 21:50,29-06-2017 21:56,395,5 Ave & E 78 St,E 78 St & 2 Ave,Subscriber,Male,1973
+3854712,06-05-2017 17:48,06-05-2017 18:26,2321,Greenwich Ave & 8 Ave,W 13 St & Hudson St,Subscriber,Male,1985
+3111054,20-04-2017 20:11,20-04-2017 20:14,225,Kent Ave & N 7 St,Meserole Ave & Manhattan Ave,Subscriber,Male,1991
